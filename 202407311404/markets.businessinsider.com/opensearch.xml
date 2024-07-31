@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-	<ShortName>markets.businessinsider.com</ShortName>
-	<Description>Search on markets.businessinsider.com</Description>
-	<Url template="https://markets.businessinsider.com/searchresults?_search={searchTerms}" type="text/html"/>
-</OpenSearchDescription>
