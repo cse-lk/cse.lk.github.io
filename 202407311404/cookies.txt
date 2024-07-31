@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+markets.businessinsider.com	TRUE	/	FALSE	1999999999	TiPMix	26.830888238831808
+markets.businessinsider.com	TRUE	/	FALSE	1999999999	x-ms-routing-name	self
+markets.businessinsider.com	TRUE	/	FALSE	1999999999	ARRAffinity	893021cf033f3ce265dc6f55bcef94fce76568cd04505d12f76920730f210995
+markets.businessinsider.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	893021cf033f3ce265dc6f55bcef94fce76568cd04505d12f76920730f210995
+markets.businessinsider.com	TRUE	/	FALSE	1999999999	SameSite	None
+
