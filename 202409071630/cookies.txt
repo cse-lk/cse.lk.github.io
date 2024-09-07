@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cse.lk	TRUE	/	FALSE	1999999999	X-Oracle-BMC-LBS-Route	6c4d1312519c7517a0fbf9e4b0d948b344dcfbb6
+cse.lk	TRUE	/	FALSE	1999999999	SameSite	Strict
+
